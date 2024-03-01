@@ -17,6 +17,8 @@ Below is a list of projects included in this portfolio. Click on a project name 
 
 <img src="LLM Vector DB Project 1/Header_Photo.jpg" width="400" alt="LLM Vector DB Project 1 Image">
 
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~evan.anderson/1.embed"></iframe>
+
 **Description**: Brief description of LLM Vector DB Project 1, its objectives, and outcomes. This project focuses on visualizing large language model (LLM) vector databases using dimensionality reduction techniques to provide insights into data clustering and relationships.
 
 **Technologies Used**: Python, TensorFlow, Pandas, Scikit-Learn.
