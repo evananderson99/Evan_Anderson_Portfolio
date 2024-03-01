@@ -17,7 +17,7 @@ Below is a list of projects included in this portfolio. Click on a project name 
 
 ### LLM Vector DB Project 1
 
-<img src="LLM Vector DB Project 1/Header_Photo.jpg" width="300" alt="LLM Vector DB Project 1 Image">
+<img src="LLM Vector DB Project 1/Header_Photo.jpg" width="400" alt="LLM Vector DB Project 1 Image">
 
 **Description**: Brief description of LLM Vector DB Project 1, its objectives, and outcomes. This project focuses on visualizing large language model (LLM) vector databases using dimensionality reduction techniques to provide insights into data clustering and relationships.
 
@@ -27,41 +27,18 @@ Below is a list of projects included in this portfolio. Click on a project name 
 
 ---
 
-### Project Name 2
+### Equity Market Uncertainty Forecasting Project 2
 
-![Project 2 Image](path/to/project2/image.png)
+<img src="Equity Market Uncertainty Forecating Project 2/Header_Image.jpg" width="400" alt="Equity Market Uncertainty Forecasting Project 2 Image">
 
-**Description**: Brief description of Project 2, including any unique challenges faced and solutions developed.
+**Description**: This project focuses on forecasting economic uncertainty in the equity market. It involves analyzing market indicators, economic data, and sentiment analysis to predict market volatility and investor behavior.
 
-**Technologies Used**: R, Shiny, Dplyr, etc.
+**Technologies Used**: Python, Pandas, NumPy, Scikit-Learn, TensorFlow.
 
-**[View Repository](URL to Project 2 Repository)** | **[Live Demo](URL to Project 2 Live Demo)**
-
----
-
-### Project Name 3
-
-![Project 3 Image](path/to/project3/image.png)
-
-**Description**: Overview of Project 3, highlighting any collaborative aspects and key findings.
-
-**Technologies Used**: Jupyter Notebook, Scikit-Learn, Matplotlib, etc.
-
-**[View Repository](URL to Project 3 Repository)** | **[Live Demo](URL to Project 3 Live Demo)**
+**[View Repository](Equity Market Uncertainty Forecating Project 2/Forecasting_Economic_Uncertainty_in_Equity_Market.ipynb)**
 
 ---
 
-### Project Name 4
-
-![Project 4 Image](path/to/project4/image.png)
-
-**Description**: Detailed explanation of Project 4's goals, data sources, and analytical methods employed.
-
-**Technologies Used**: SQL, Tableau, Excel, etc.
-
-**[View Repository](URL to Project 4 Repository)** | **[Live Demo](URL to Project 4 Live Demo)**
-
----
 
 ### Contact Information
 
