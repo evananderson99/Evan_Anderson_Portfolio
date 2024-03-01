@@ -29,7 +29,7 @@ Below is a list of projects included in this portfolio. Click on a project name 
 
 ### Equity Market Uncertainty Forecasting Project 2
 
-<img src="Equity Market Uncertainty Forecating Project 2/Header_Image.jpg" width="400" alt="Equity Market Uncertainty Forecasting Project 2 Image">
+<img src="Equity Market Uncertainty Forecating Project 2/Header_Image.jpg" width="1000" alt="Equity Market Uncertainty Forecasting Project 2 Image">
 
 **Description**: This project focuses on forecasting economic uncertainty in the equity market. It involves analyzing market indicators, economic data, and sentiment analysis to predict market volatility and investor behavior.
 
