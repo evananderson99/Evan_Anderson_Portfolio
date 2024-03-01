@@ -17,7 +17,7 @@ Below is a list of projects included in this portfolio. Click on a project name 
 
 ### LLM Vector DB Project 1
 
-![LLM Vector DB Project 1 Image](LLM%20Vector%20DB%20Project%201/Header_Photo.jpg)
+<img src="LLM Vector DB Project 1/Header_Photo.jpg" width="300" alt="LLM Vector DB Project 1 Image">
 
 **Description**: Brief description of LLM Vector DB Project 1, its objectives, and outcomes. This project focuses on visualizing large language model (LLM) vector databases using dimensionality reduction techniques to provide insights into data clustering and relationships.
 
