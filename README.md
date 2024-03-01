@@ -33,7 +33,7 @@ Below is a list of projects included in this portfolio. Click on a project name 
 
 **Technologies Used**: Python, Pandas, NumPy, Scikit-Learn, TensorFlow.
 
-**[View Repository](Equity Market Uncertainty Forecating Project 2/Forecasting_Economic_Uncertainty_in_Equity_Market.ipynb)**
+**[View Repository](Equity%20Marke%20Uncertainty%20Forecating%20Project%202/Forecasting_Economic_Uncertainty_in_Equity_Market.ipynb)**
 
 ---
 
