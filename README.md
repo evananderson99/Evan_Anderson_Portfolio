@@ -9,9 +9,7 @@ Welcome to my professional portfolio of Machine Learning and Data Science projec
 Below is a list of projects included in this portfolio. Click on a project name to navigate to its detailed description.
 
 1. [LLM Vector DB Project 1](#llm-vector-db-project-1)
-2. [Project Name 2](#project-name-2)
-3. [Project Name 3](#project-name-3)
-4. [Project Name 4](#project-name-4)
+2. [Equity Market Uncertainty Forecasting Project 2](#equity-market-uncertainty-forecasting-project-2)
 
 ---
 
