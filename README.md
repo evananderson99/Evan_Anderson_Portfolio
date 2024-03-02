@@ -8,12 +8,12 @@ Welcome to my professional portfolio of Machine Learning and Data Science projec
 
 Below is a list of projects included in this portfolio. Click on a project name to navigate to its detailed description.
 
-1. [Project 1: LLM Vector DB Dimension Reduction Visualized](#llm-vector-db-project-1)
+1. [Project 1: LLM Vector DB Dimension Reduction for RAG](#llm-vector-db-project-1)
 2. [Project 2: Equity Market Uncertainty Forecasting with Prophet](#equity-market-uncertainty-forecasting-project-2)
 3. [Ukrainian War News NLP Web Scraping for Political Science Research]()
 ---
 
-# LLM Vector DB Project 1
+# Project 1: LLM Vector DB Dimension Reduction for RAG
 
 <img src="LLM Vector DB Project 1/Header_Photo.jpg" width="400" alt="LLM Vector DB Project 1 Image">
 
@@ -25,7 +25,7 @@ Below is a list of projects included in this portfolio. Click on a project name 
 
 ---
 
-# Equity Market Uncertainty Forecasting Project 2
+# Project 2: Equity Market Uncertainty Forecasting with Prophet
 
 <img src="Equity Market Uncertainty Forecating Project 2/Header_Image.jpg" width="1000" alt="Equity Market Uncertainty Forecasting Project 2 Image">
 
