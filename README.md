@@ -17,6 +17,8 @@ Below is a list of projects included in this portfolio. Click on a project name 
 
 <img src="LLM Vector DB Project 1/Header_Photo.jpg" width="400" alt="LLM Vector DB Project 1 Image">
 
+[Interactive Plot](https://chart-studio.plotly.com/~evan.anderson/1)
+
 **Description**: Brief description of LLM Vector DB Project 1, its objectives, and outcomes. This project focuses on visualizing large language model (LLM) vector databases using dimensionality reduction techniques to provide insights into data clustering and relationships.
 
 **Technologies Used**: Python, TensorFlow, Pandas, Scikit-Learn.
@@ -29,7 +31,7 @@ Below is a list of projects included in this portfolio. Click on a project name 
 
 <img src="Equity Market Uncertainty Forecating Project 2/Header_Photo.jpg" width="1000" alt="Equity Market Uncertainty Forecasting Project 2 Image">
 
-[Interactive Plot Link](https://chart-studio.plotly.com/~evan.anderson/4/#/)
+[Interactive Plot](https://chart-studio.plotly.com/~evan.anderson/4/#/)
 
 **Description**: This project focuses on forecasting economic uncertainty in the equity market. It involves analyzing market indicators, economic data, and sentiment analysis to predict market volatility and investor behavior.
 
