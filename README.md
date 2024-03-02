@@ -10,7 +10,7 @@ Below is a list of projects included in this portfolio. Click on a project name 
 
 1. **[Project 1: LLM Vector DB Dimension Reduction for RAG](https://github.com/evananderson99/Evan_Anderson_Portfolio/tree/main/LLM%20Vector%20DB%20Dimension%20Reduction%20for%20RAG)**
 2. **[Project 2: Equity Market Uncertainty Forecasting with Prophet](https://github.com/evananderson99/Evan_Anderson_Portfolio/tree/main/Equity%20Market%20Uncertainty%20Forecating%20with%20Prophet)**
-3. [Project 3: Ukrainian War News NLP Web Scraping with Newspaper3k]()
+3. **[Project 3: Ukrainian War News NLP Web Scraping with Newspaper3k]()**
 ---
 
 # Project 1: LLM Vector DB Dimension Reduction for RAG
@@ -19,9 +19,9 @@ Below is a list of projects included in this portfolio. Click on a project name 
 
 [Interactive Plot](https://chart-studio.plotly.com/~evan.anderson/1)
 
-**Description**: Brief description of LLM Vector DB Project 1, its objectives, and outcomes. This project focuses on visualizing large language model (LLM) vector databases using dimensionality reduction techniques to provide insights into data clustering and relationships.
+**Description**: This project focuses on visualizing large language model (LLM) vector databases using dimensionality reduction to better assess the performance of retrival augmented generation (RAG) user queries. 
 
-**Technologies Used**: Python, TensorFlow, Pandas, Scikit-Learn.
+**Technologies Used**: Python, Langchain, ChromaDB, UMAP, Plotly
 
 **[View Repository](https://github.com/evananderson99/Evan_Anderson_Portfolio/tree/main/LLM%20Vector%20DB%20Dimension%20Reduction%20for%20RAG)**
 
@@ -33,9 +33,9 @@ Below is a list of projects included in this portfolio. Click on a project name 
 
 [Interactive Plot](https://chart-studio.plotly.com/~evan.anderson/4/#/)
 
-**Description**: This project focuses on forecasting economic uncertainty in the equity market. It involves analyzing market indicators, economic data, and sentiment analysis to predict market volatility and investor behavior.
+**Description**: This project focuses on forecasting economic uncertainty in the equity market using Prohet, a univariable forecastor that uses trends in seasonality
 
-**Technologies Used**: Python, Pandas, NumPy, Scikit-Learn, TensorFlow.
+**Technologies Used**: Python, FRED, Prophet, Sklearn, Plotly
 
 **[View Repository](https://github.com/evananderson99/Evan_Anderson_Portfolio/tree/main/Equity%20Market%20Uncertainty%20Forecating%20with%20Prophet)**
 
