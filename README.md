@@ -40,7 +40,7 @@ Below is a list of projects included in this portfolio. Click on a project name 
 
 ### Contact Information
 
-For more information on my projects or to discuss potential collaborations, please reach out via [LinkedIn]([URL to LinkedIn profile](https://www.linkedin.com/in/evan-anderson-351925193/)) or evantanderson77@gmail.com.
+For more information on my projects or to discuss potential collaborations, please reach out via [LinkedIn]((https://www.linkedin.com/in/evan-anderson-351925193/)) or evantanderson77@gmail.com.
 
 Thank you for visiting my portfolio!
 
