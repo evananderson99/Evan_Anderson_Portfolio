@@ -15,7 +15,7 @@ Below is a list of projects included in this portfolio. Click on a project name 
 
 # Project 1: LLM Vector DB Dimension Reduction for RAG
 
-<img src="LLM Vector DB Project 1/Header_Photo.jpg" width="400" alt="LLM Vector DB Project 1 Image">
+<img src="LLM Vector DB Dimension Reduction for RAG/Header_Photo.jpg" width="400" alt="LLM Vector DB Project 1 Image">
 
 [Interactive Plot](https://chart-studio.plotly.com/~evan.anderson/1)
 
@@ -23,7 +23,7 @@ Below is a list of projects included in this portfolio. Click on a project name 
 
 **Technologies Used**: Python, TensorFlow, Pandas, Scikit-Learn.
 
-**[View Repository](LLM%20Vector%20DB%20Project%201/LLM_Vector_DB_Visualized_with_Dimension_Reduction.ipynb)**
+**[View Repository](LLM20%Vector20%DB20%Dimension20%Reduction20%for20%RAG/LLM_Vector_DB_Visualized_with_Dimension_Reduction.ipynb)**
 
 ---
 
