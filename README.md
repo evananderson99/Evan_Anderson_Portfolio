@@ -4,7 +4,7 @@
 
 Welcome to my professional portfolio of Machine Learning and Data Science projects! I am passionate Machine Learning Engineer with extensive experience in generative AI, natural language processing, machine learning, forecasting and statistical analysis. I hold a Master of Science in Data Analytics with a concentration in Statistics from Johns Hopkins University. My graduate research focused on emerging machine learning time series forecasting techniques for econometrics. 
 
-### Projects Overview
+# Project List
 
 1. **[Project 1: LLM Vector DB Dimension Reduction for RAG](https://github.com/evananderson99/Evan_Anderson_Portfolio/tree/main/LLM%20Vector%20DB%20Dimension%20Reduction%20for%20RAG)**
 2. **[Project 2: Equity Market Uncertainty Forecasting with Prophet](https://github.com/evananderson99/Evan_Anderson_Portfolio/tree/main/Equity%20Market%20Uncertainty%20Forecating%20with%20Prophet)**
