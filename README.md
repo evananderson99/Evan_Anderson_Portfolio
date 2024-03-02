@@ -48,7 +48,7 @@ Welcome to my professional portfolio of Machine Learning and Data Science projec
 
 ### Contact Information
 
-For more information on my projects or to discuss potential collaborations, please reach out via [LinkedIn]([Linkedin](https://www.linkedin.com/in/evan-anderson-351925193/)) or evantanderson77@gmail.com.
+For more information on my projects or to discuss potential collaborations, please reach out via [LinkedIn](https://www.linkedin.com/in/evan-anderson-351925193/) or evantanderson77@gmail.com.
 
 Thank you for visiting my portfolio!
 
