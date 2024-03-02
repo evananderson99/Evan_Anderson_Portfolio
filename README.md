@@ -28,7 +28,8 @@ Below is a list of projects included in this portfolio. Click on a project name 
 # Project 2: Equity Market Uncertainty Forecasting with Prophet
 
 <img src="Equity Market Uncertainty Forecating Project 2/Header_Photo.jpg" width="1000" alt="Equity Market Uncertainty Forecasting Project 2 Image">
-(Interactve Plot:https://chart-studio.plotly.com/~evan.anderson/4/#/)
+
+[Interactive Plot Link](https://chart-studio.plotly.com/~evan.anderson/4/#/)
 
 **Description**: This project focuses on forecasting economic uncertainty in the equity market. It involves analyzing market indicators, economic data, and sentiment analysis to predict market volatility and investor behavior.
 
