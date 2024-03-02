@@ -1,4 +1,4 @@
-# Evan Anderson's Portfolio
+# Evan Anderson
 
 ## Machine Learning & Data Science Portfolio
 
