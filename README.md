@@ -41,6 +41,21 @@ Below is a list of projects included in this portfolio. Click on a project name 
 
 ---
 
+# Project 3: Ukrainian War News NLP Web Scraping with Newspaper3k
+
+<img src="Equity Market Uncertainty Forecating Project 2/Header_Photo.jpg" width="1000" alt="Equity Market Uncertainty Forecasting Project 2 Image">
+
+[Interactive Plot](https://chart-studio.plotly.com/~evan.anderson/4/#/)
+
+**Description**: This project focuses on forecasting economic uncertainty in the equity market. It involves analyzing market indicators, economic data, and sentiment analysis to predict market volatility and investor behavior.
+
+**Technologies Used**: Python, Pandas, NumPy, Scikit-Learn, TensorFlow.
+
+**[View Repository](Equity%20Marke%20Uncertainty%20Forecating%20Project%202/Forecasting_Economic_Uncertainty_in_Equity_Market.ipynb)**
+
+---
+
+
 
 ### Contact Information
 
