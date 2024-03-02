@@ -9,7 +9,7 @@ Welcome to my professional portfolio of Machine Learning and Data Science projec
 Below is a list of projects included in this portfolio. Click on a project name to navigate to its detailed description.
 
 1. **[Project 1: LLM Vector DB Dimension Reduction for RAG](https://github.com/evananderson99/Evan_Anderson_Portfolio/tree/main/LLM%20Vector%20DB%20Dimension%20Reduction%20for%20RAG)**
-2. [Project 2: Equity Market Uncertainty Forecasting with Prophet](#equity-market-uncertainty-forecasting-project-2)
+2. **[Project 2: Equity Market Uncertainty Forecasting with Prophet](https://github.com/evananderson99/Evan_Anderson_Portfolio/tree/main/Equity%20Market%20Uncertainty%20Forecating%20with%20Prophet)**
 3. [Project 3: Ukrainian War News NLP Web Scraping with Newspaper3k]()
 ---
 
@@ -29,7 +29,7 @@ Below is a list of projects included in this portfolio. Click on a project name 
 
 # Project 2: Equity Market Uncertainty Forecasting with Prophet
 
-<img src="Equity Market Uncertainty Forecating Project 2/Header_Photo.jpg" width="1000" alt="Equity Market Uncertainty Forecasting Project 2 Image">
+<img src="Equity Market Uncertainty Forecating with Prophet/Header_Photo.jpg" width="1000" alt="Equity Market Uncertainty Forecasting Project 2 Image">
 
 [Interactive Plot](https://chart-studio.plotly.com/~evan.anderson/4/#/)
 
@@ -37,7 +37,7 @@ Below is a list of projects included in this portfolio. Click on a project name 
 
 **Technologies Used**: Python, Pandas, NumPy, Scikit-Learn, TensorFlow.
 
-**[View Repository](Equity%20Marke%20Uncertainty%20Forecating%20Project%202/Forecasting_Economic_Uncertainty_in_Equity_Market.ipynb)**
+**[View Repository](https://github.com/evananderson99/Evan_Anderson_Portfolio/tree/main/Equity%20Market%20Uncertainty%20Forecating%20with%20Prophet)**
 
 ---
 
