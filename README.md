@@ -33,7 +33,7 @@ Below is a list of projects included in this portfolio. Click on a project name 
 
 [Interactive Plot](https://chart-studio.plotly.com/~evan.anderson/4/#/)
 
-**Description**: This project focuses on forecasting economic uncertainty in the equity market using Prohet, a univariable forecastor that uses trends in seasonality
+**Description**: This project focuses on forecasting economic uncertainty in the equity market using Prohet, a univariable forecastor that uses trends in seasonality to make projections.
 
 **Technologies Used**: Python, FRED, Prophet, Sklearn, Plotly
 
