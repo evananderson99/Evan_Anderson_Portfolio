@@ -27,7 +27,7 @@ Welcome to my professional portfolio of Machine Learning and Data Science projec
 
 # Project 2: Equity Market Uncertainty Forecasting with Prophet
 
-<img src="Equity Market Uncertainty Forecating with Prophet/Header_Photo.jpg" width="500" alt="Equity Market Uncertainty Forecasting Project 2 Image">
+<img src="Equity Market Uncertainty Forecating with Prophet/Header_Photo.jpg" width="1000" alt="Equity Market Uncertainty Forecasting Project 2 Image">
 
 [Interactive Plot](https://chart-studio.plotly.com/~evan.anderson/4/#/)
 
