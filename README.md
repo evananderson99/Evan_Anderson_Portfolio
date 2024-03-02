@@ -10,7 +10,7 @@ Below is a list of projects included in this portfolio. Click on a project name 
 
 1. [Project 1: LLM Vector DB Dimension Reduction for RAG](#llm-vector-db-project-1)
 2. [Project 2: Equity Market Uncertainty Forecasting with Prophet](#equity-market-uncertainty-forecasting-project-2)
-3. [Ukrainian War News NLP Web Scraping for Political Science Research]()
+3. [Project 3: Ukrainian War News NLP Web Scraping with Newspaper3k]()
 ---
 
 # Project 1: LLM Vector DB Dimension Reduction for RAG
