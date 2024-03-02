@@ -2,7 +2,7 @@
 
 ## Machine Learning & Data Science Portfolio
 
-Welcome to my professional portfolio of Machine Learning and Data Science projects. Here, you'll find a curated list of projects that showcase my skills, interests, and contributions to the field. Each project includes a brief description, key technologies used, and links to the project repository and any live demos or interactive applications.
+Welcome to my professional portfolio of Machine Learning and Data Science projects! I am passionate Machine Learning Engineer with extensive experience in generative AI, natural language processing, machine learning, forecasting and statistical analysis. I hold a Master of Science in Data Analytics with a concentration in Statistics from Johns Hopkins University. My graduate research focused on emerging machine learning time series forecasting techniques for econometrics. 
 
 ### Projects Overview
 
