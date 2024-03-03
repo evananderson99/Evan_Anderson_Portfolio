@@ -41,10 +41,9 @@ Welcome to my professional portfolio of Machine Learning and Data Science projec
 
 # Project 3: Ukrainian War News NLP Web Scraping with Newspaper3k
 
+**Description**: Coming Soon
 
 ---
-
-
 
 ### Contact Information
 
