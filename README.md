@@ -8,7 +8,7 @@ Welcome to my professional portfolio of Machine Learning and Data Science projec
 
 1. **[Project 1: LLM Vector DB Dimension Reduction for RAG](https://github.com/evananderson99/Evan_Anderson_Portfolio/tree/main/LLM%20Vector%20DB%20Dimension%20Reduction%20for%20RAG)**
 2. **[Project 2: Equity Market Uncertainty Forecasting with Prophet](https://github.com/evananderson99/Evan_Anderson_Portfolio/tree/main/Equity%20Market%20Uncertainty%20Forecating%20with%20Prophet)**
-3. **[Project 3: Ukrainian War News NLP Web Scraping with Newspaper3k]**
+3. **[Project 3: Ukrainian War News NLP Web Scraping with Newspaper3k]()**
 ---
 
 # Project 1: LLM Vector DB Dimension Reduction for RAG
